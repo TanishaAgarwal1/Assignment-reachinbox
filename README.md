@@ -19,5 +19,5 @@
 
 ## Some View
 
- <img src="assets/Screenshot (370).png">
+ <img src="demo/Screenshot (370).png">
 
